@@ -3,11 +3,11 @@
 
 <p align="center">
   <strong>Advanced Digital Forensics CLI for Termux (No Root)</strong><br>
-  <em>"Real Operations: Binary Parsing, SQL Analysis, Cryptography, Network Stats." — Mr.X</em>
+  <em>"Real Operations: Binary Parsing, SQL Analysis, Cryptography, Network Stats." â€” Mr.X</em>
 </p>
 
 ## Introduction
-**FORENSIC** is a powerful **digital forensics framework** designed specifically for mobile and terminal environments. With **30 real forensic modules**, it enables deep file analysis, network reconnaissance, metadata extraction, steganography detection, and more—all without requiring root access. Built with a sleek **cyberpunk neon terminal interface**, it runs smoothly on **Termux (Android)**, Linux, and other Python-supported platforms.
+**FORENSIC** is a powerful **digital forensics framework** designed specifically for mobile and terminal environments. With **30 real forensic modules**, it enables deep file analysis, network reconnaissance, metadata extraction, steganography detection, and moreâ€”all without requiring root access. Built with a sleek **cyberpunk neon terminal interface**, it runs smoothly on **Termux (Android)**, Linux, and other Python-supported platforms.
 
 ---
 
@@ -27,18 +27,18 @@ $ python3 forensic.py
 ```
 
 ## Features
--**30 Real Forensic Modules** – From file hashing to SQLite analysis, entropy checks, and JPG carving.
--**Termux Optimized** – Fully functional on Android with no root required.
--**Cyberpunk UI** – Neon-themed terminal with animated boot screen, two-column menu, and clean output formatting.
--**Export Reports** – Generate session reports in JSON or CSV format (Module 20).
--**Binary & File Analysis** – Hex dumps, magic bytes, polyglot detection, EXIF/PDF metadata, and string extraction.
--**Network Tools** – Port scanning (with custom ranges), DNS lookup, HTTP header parsing, MAC vendor lookup.
--**Cryptography & Security** – Hash generation (MD5/SHA1/SHA256), Base64 decode, password strength testing, Chi-square encryption detection.
+-**30 Real Forensic Modules** â€“ From file hashing to SQLite analysis, entropy checks, and JPG carving.
+-**Termux Optimized** â€“ Fully functional on Android with no root required.
+-**Cyberpunk UI** â€“ Neon-themed terminal with animated boot screen, two-column menu, and clean output formatting.
+-**Export Reports** â€“ Generate session reports in JSON or CSV format (Module 20).
+-**Binary & File Analysis** â€“ Hex dumps, magic bytes, polyglot detection, EXIF/PDF metadata, and string extraction.
+-**Network Tools** â€“ Port scanning (with custom ranges), DNS lookup, HTTP header parsing, MAC vendor lookup.
+-**Cryptography & Security** â€“ Hash generation (MD5/SHA1/SHA256), Base64 decode, password strength testing, Chi-square encryption detection.
 
 ## Instructions
 - **First**: Install the tool using the commands above.
-- **Second**: Run  python3 forensic.py  to launch the cyberpunk interface.
-- **Third**: Select a module by number (1–30), press  H  for detailed help, or  Q  to quit.
+- **Second**: Run Â python3 forensic.pyÂ  to launch the cyberpunk interface.
+- **Third**: Select a module by number (1â€“30), press Â HÂ  for detailed help, or Â QÂ  to quit.
 - **Fourth**: Follow prompts (e.g., file paths, IPs, passwords) based on the chosen module.
 - **Fifth**: Review results displayed in color-coded, structured output.
 - **Last**: Use Module 20 to export your forensic session report.
@@ -67,5 +67,7 @@ This tool is intended for **educational and ethical hacking purposes only**. Una
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/_Thank_you_for_visiting!-808080?style=for-the-badge&logo=github" alt="Thanks badge"/>
+  <img src="https://img.shields.io/badge/ðŸŒŸ_Thank_you_for_visiting!-808080?style=for-the-badge&logo=github" alt="Thanks badge"/>
 </p>
+
+---
