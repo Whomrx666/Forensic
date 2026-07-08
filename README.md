@@ -27,13 +27,13 @@ $ python3 forensic.py
 ```
 
 ## Features
--**30 Real Forensic Modules** – From file hashing to SQLite analysis, entropy checks, and JPG carving.
--**Termux Optimized** – Fully functional on Android with no root required.
--**Cyberpunk UI** – Neon-themed terminal with animated boot screen, two-column menu, and clean output formatting.
--**Export Reports** – Generate session reports in JSON or CSV format (Module 20).
--**Binary & File Analysis** – Hex dumps, magic bytes, polyglot detection, EXIF/PDF metadata, and string extraction.
--**Network Tools** – Port scanning (with custom ranges), DNS lookup, HTTP header parsing, MAC vendor lookup.
--**Cryptography & Security** – Hash generation (MD5/SHA1/SHA256), Base64 decode, password strength testing, Chi-square encryption detection.
+- **30 Real Forensic Modules** – From file hashing to SQLite analysis, entropy checks, and JPG carving.
+- **Termux Optimized** – Fully functional on Android with no root required.
+- **Cyberpunk UI** – Neon-themed terminal with animated boot screen, two-column menu, and clean output formatting.
+- **Export Reports** – Generate session reports in JSON or CSV format (Module 20).
+- **Binary & File Analysis** – Hex dumps, magic bytes, polyglot detection, EXIF/PDF metadata, and string extraction.
+- **Network Tools** – Port scanning (with custom ranges), DNS lookup, HTTP header parsing, MAC vendor lookup.
+- **Cryptography & Security** – Hash generation (MD5/SHA1/SHA256), Base64 decode, password strength testing, Chi-square encryption detection.
 
 ## Instructions
 - **First**: Install the tool using the commands above.
