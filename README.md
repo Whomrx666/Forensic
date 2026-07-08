@@ -16,7 +16,7 @@
 $ pkg update -y && pkg upgrade -y
 $ pkg install git python -y
 $ git clone https://github.com/Whomrx666/Forensic.git
-$ cd neonforensic
+$ cd forensic
 $ chmod +x forensic.py
 $ python3 install.py
 
